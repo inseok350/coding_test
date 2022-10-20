@@ -1,4 +1,5 @@
 // 행렬의 곱
+//https://school.programmers.co.kr/learn/courses/30/lessons/12949
 // arr1, arr2로 2개의 행렬을 받고 answer로 return한다
 public class matrix_mul {
 
