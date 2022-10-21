@@ -19,7 +19,5 @@ public class matrix_mul {
         }
 		System.out.println(answer[0][0]);
 		return ;
-
 	}
- 
 }
