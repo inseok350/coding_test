@@ -29,6 +29,7 @@ public class NxN_mat_slice {
             col = (int)(i % n);
             answer[index++] = Math.max(row,col)+1;
         }
+        
         return ; // answer
 	}
 
