@@ -38,6 +38,7 @@ public class bracket_Rotation_check {
             bracket_stack.clear(); // stack 초기화
             temp_s = temp_s.substring(1) + temp_s.charAt(0);  
         }
+        System.out.println(answer);
         return ; // answer 값을 return
 
 	}
